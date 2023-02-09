@@ -4,6 +4,6 @@ third - my branch
 fourth - my branch
 <<<<<<< HEAD
 okokok
-=======
+=======aaaaaaaa
 bkbkbk
 >>>>>>> 4a5f77f (blblbl)
